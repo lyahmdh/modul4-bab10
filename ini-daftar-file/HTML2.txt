@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../assets/globals.css" />
+    <link rel="stylesheet" href="../assets/styleguide.css" />
+    <link rel="stylesheet" href="../assets/CSS/RekapKecamatan.css" />
+  </head>
+
+  <body>
+
+    <!-- NAVBAR -->
+    <nav class="navbar">
+        <div class="overlap-2">
+            <a href="Dashboard.html" class="dashbord"><div class="logo-atas"></div></a>
+            <a href="ajukan-laporan.html" class="ajukan-laporan"><div class="title">Ajukan Laporan</div></a>
+            <a href="rekap.html" class="rekap"><div class="title">Rekap</div></a>
+            <a href="faq.html" class="faq"><div class="title">FAQ</div></a>
+            <a href="Profile.html" class="profile-link"><img class="profile" src="../assets/images/img/nav-mega.png" alt="Profile" /></a>
+        </div>
+    </nav>
+
+    <!-- CONTENT UTAMA -->
+
+    <div class="rekap-kecamatan">
+        <div class="div">
+          <div class="overlap-group">
+            <img class="peta-malang" src="../assets/Images/img/peta-malang.png" />
+            <div class="judul-peta">Kota Malang</div>
+            <div class="overlap-2">
+              <div class="judul-statistika">Kecamatan</div>
+              <div class="right-arrow"><img class="arrow" src="../assets/Images/svg/right-arrow.svg" /></div>
+              <div class="left-arrow"><img class="arrow-2" src="../assets/Images/svg/left-arrow.svg" /></div>
+              
+              <div class="kec-lowokwaru">
+                <div class="overlap-group-2">
+                  <div class="text-wrapper-2">30%</div>
+                  <div class="text-wrapper-3">Kecamatan<br />Lowokwaru</div>
+                </div>
+              </div>
+              
+              <div class="kec-blimbing">
+                <div class="overlap-group-2">
+                  <div class="text-wrapper-4">15%</div>
+                  <div class="text-wrapper-3">Kecamatan<br />Blimbing</div>
+                </div>
+              </div>
+              
+              <div class="kec-kedung">
+                <div class="overlap-3">
+                  <div class="rectangle"></div>
+                  <div class="text-wrapper-5">15%</div>
+                  <div class="kecamatan-kedung">Kecamatan<br />Kedung-kandang</div>
+                </div>
+              </div>
+              
+              <div class="kec-sukun">
+                <div class="overlap-group-2">
+                  <div class="text-wrapper-6">20%</div>
+                  <div class="text-wrapper-3">Kecamatan<br />Sukun</div>
+                </div>
+              </div>
+              
+              <div class="kec-klojen">
+                <div class="overlap-group-2">
+                  <div class="text-wrapper-6">20%</div>
+                  <div class="text-wrapper-3">Kecamatan<br />Klojen</div>
+                </div>
+              </div>
+              <img class="scroll-statistik" src="../assets/Images/svg/scroll-statistik.svg" />
+            </div>
+            
+            <div class="overlap-4">
+              <div class="text-wrapper-7">Kecamatan</div>
+              <div class="div-2"></div>
+              <img class="drop-arrow-kecamatan" src="../assets/Images/svg/drop-arrow.svg" />
+            </div>
+            <div class="overlap-5">
+              <div class="text-wrapper-8">Desa/Kelurahan</div>
+              <div class="div-3"></div>
+              <img class="drop-arrow-desa" src="../assets/Images/svg/drop-arrow.svg" />
+            </div>
+            <div class="overlap-6">
+              <div class="text-wrapper-9">Tahun</div>
+              <div class="div-2"></div>
+              <img class="drop-arrow-tahun" src="../assets/Images/svg/drop-arrow.svg" />
+            </div>
+            <div class="overlap-7">
+              <div class="text-wrapper-10">Kategori</div>
+              <div class="div-3"></div>
+              <img class="drop-arrow-kategori" src="../assets/Images/svg/drop-arrow.svg" />
+            </div>
+            <div class="overlap-8">
+              <img class="asset-cari" src="../assets/Images/svg/asset-cari.svg    " />
+              <div class="text-wrapper-11">Cari</div>
+            </div>
+            <div class="overlap-9">
+              <a href="Dashboard.html" class="dashbord"><div class="path-home">Home &gt;</div></a>
+              <a href="RekapKecamatan.html" class="rekap-kecamatan"><div class="path-rekaplaporan">Rekap Laporan</div></a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="overlap-10">
+            <div class="rectangle"></div>
+            <a href="Dashboard.html" class="dashbord"><img class="logo-footer" src="../assets/images/img/logo-footer.png" alt="Logo Footer" /></a>
+            <div class="text-wrapper-10">Ikuti Kami!</div>
+            <div class="frame">
+                <img class="x-logo" src="../assets/images/svg/x-logo.svg" alt="X Logo" />
+                <img class="img-2" src="../assets/images/svg/logo-instagram.svg" alt="Instagram Logo" />
+                <img class="img-2" src="../assets/images/svg/logo-youtube.svg" alt="YouTube Logo" />
+                <img class="img-2" src="../assets/images/svg/linkedin.svg" alt="LinkedIn Logo" />
+            </div>
+            <div class="rectangle-2"></div>
+            <div class="text-link-list">
+                <div class="text-strong-wrapper">
+                    <div class="text-strong"><div class="text-strong-2">Tentang Kami</div></div>
+                </div>
+                <div class="text-link-list-item"><div class="list-item">Profil Laporin Aja</div></div>
+                <div class="text-link-list-item"><div class="list-item">Karier</div></div>
+                <div class="text-link-list-item"><div class="list-item">Keamanan</div></div>
+                <div class="text-link-list-item"><div class="list-item">Hubungi kami</div></div>
+            </div>
+            <div class="text-link-list-2">
+                <div class="text-strong-wrapper">
+                    <div class="text-strong"><div class="text-strong-3">Tautan Lainnya</div></div>
+                </div>
+                <div class="text-link-list-item"><div class="list-item">Situs Resmi Pemkot Malang</div></div>
+                <div class="text-link-list-item"><div class="list-item">Data Terbuka Kota Malang</div></div>
+                <div class="text-link-list-item"><div class="list-item">PLN Pengaduan Malang</div></div>
+            </div>
+            <p class="element-laporin-aja">
+                © 2026 Laporin Aja – Sistem Pengaduan Publik Kota Malang&nbsp;&nbsp; <br />
+                Dikelola oleh DPUPR Kota Malang | Terintegrasi dengan SIPPD Nasional
+            </p>
+        </div>
+    </footer>
+
+  </body>
+
+</html>
